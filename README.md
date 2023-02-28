@@ -1,5 +1,12 @@
 # calculadora-Rafael-Garcia
 
--Tecnologias usada: Html, css e Javascript
+# Tecnologias usadas:
 
--Link do Projeto: https://calculadora-rafaelgarcia.surge.sh/
+- Html
+- css 
+- Javascript
+
+# Deploy  
+  
+  <p><a href="https://calculadora-rafaelgarcia.surge.sh/">Link</a></p>
+
